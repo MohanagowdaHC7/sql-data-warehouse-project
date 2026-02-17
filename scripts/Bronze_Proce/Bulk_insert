@@ -3,7 +3,7 @@
 DDL Sripts:Loading to the bronze layer.
 =================================================================================
 Script Purpose:
-    This scripts creates the table in bronze schema.
+    This scripts inserting data to the bronze schema.
     The table will be truncated if they exists.
 */
 
